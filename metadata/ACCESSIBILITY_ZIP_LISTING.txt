@@ -1,0 +1,11 @@
+Archive:  /Users/dlev2617/Documents/Papers/~05-Published/Urban Studies/US-ActivitySpaces/2005 shopping accessibility.zip
+  Length      Date    Time    Name
+---------  ---------- -----   ----
+    63555  04-11-2012 13:52   car_shopping_20m_acc_2005.csv
+    67032  04-11-2012 13:54   car_shopping_40m_acc_2005.csv
+ 12924300  04-11-2012 14:04   transit_shopping_20m_acc_2005.csv
+ 13043974  04-11-2012 14:06   transit_shopping_40m_acc_2005.csv
+  1027631  04-11-2012 15:44   walk_shopping_20m_acc_2005.csv
+  1125036  04-11-2012 15:49   walk_shopping_40m_acc_2005.csv
+---------                     -------
+ 28251528                     6 files
