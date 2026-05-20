@@ -1,6 +1,6 @@
 # License Status: Street Network Structure And Activity Spaces
 
-Generated: 2026-05-20 13:31:26 AEST
+Generated: 2026-05-20 14:46:37 AEST
 
 Recorded license/access note from the verified audit row: Upstream data governed by MTSA/Census/FDOT/provider terms; packaged supporting artifacts appear non-person/derived and should be released with provenance notes.
 
