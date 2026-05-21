@@ -5,7 +5,7 @@ Generated: 2026-05-22 07:56:28 AEST
 ## Audit State
 
 - Row ID: `paper-2015-10`
-- Pipeline: `READY-TO-UPLOAD/PUBLIC`
+- Pipeline: `UPLOADED`
 - Upload action: `upload_public_package`
 - Packaging status: `ready_to_package_review`
 - Rights status: `likely_clear_with_provenance`
