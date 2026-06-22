@@ -1,5 +1,9 @@
 # Street network structure and household activity spaces
 
+## Contribution
+
+This paper shows that street-network structure has a measurable influence on the geographic extent of household activity spaces. Combining travel surveys with network measures for the Twin Cities and South Florida, it finds that network form helps explain household travel patterns even after accounting for accessibility, vehicle ownership, and other household characteristics.
+
 Parthasarathi, Pavithra; Hochmair, Hartwig; Levinson, David M. (2015). Street network structure and household activity spaces. Urban Studies, 52(6), 1090-1112. https://doi.org/10.1177/0042098014537956
 
 ## Status
