@@ -28,15 +28,23 @@ This folder is ready for public upload review. It contains the paper reference p
 - FSUTMSOnline / Florida Department of Transportation model-data sources
 - Open-source street-network classification software cited through Xie (2007)
 
-Updated: 2026-05-17 20:23:23 AEST
+## Rights And Provenance
+
+The root `LICENSE` applies CC BY 4.0 only to rights-cleared author-created repository documentation, package metadata, source-decision notes, package-boundary notes, file manifests, generated data dictionaries, and derived package metadata. It also covers modernized sidecar descriptions and exports for the staged supporting accessibility and network-measure materials only to the extent controlled by the paper authors or repository maintainers.
+
+The license does not relicense the publication PDF, raw Twin Cities Travel Behavior Inventory records, 1999 Southeast Florida Travel Survey records, household/trip/activity-space microdata, coordinate records, respondent-level data, Metropolitan Travel Survey Archive materials, Census TIGER/Line source files, FSUTMSOnline or Florida Department of Transportation source data, UMN accessibility source data, CLUSTER/Xie street-classification software, the original supporting accessibility ZIP, the legacy network-measures workbook, coauthor-controlled source materials without separate rights confirmation, drafts, reviewer correspondence, cited references, vendor file-format structures, or other third-party/external materials.
+
+No standalone software license is asserted because no executable software, scripts, notebooks, model source code, street-network classification code, regression scripts, or paper-specific runtime code are staged here.
+
+Updated: 2026-07-02 11:28:18 AEST
 
 <!-- package-hardening-status:start -->
 ## Package Hardening Status
 
-Generated: 2026-05-22 07:56:28 AEST
+Generated: 2026-07-02 11:28:18 AEST
 
 - Pipeline: `UPLOADED`
-- Sidecars added/updated: `PACKAGE_STATUS.md`, `PACKAGE_MANIFEST.csv`, `LICENSE_STATUS.md`.
+- Sidecars added/updated: `PACKAGE_STATUS.md`, `PACKAGE_MANIFEST.csv`, `LICENSE_STATUS.md`, root `LICENSE`.
 - Public paper-package repositories include `paper/` PDF reference copies by owner decision; publisher takedown requests can be handled later if they arise.
-- Final GitHub upload should use the manifest include statuses and the license-status note.
+- The root license is a narrow provenance boundary and must not be read as permission to reuse paper PDFs, raw survey records, public/regional source data, coauthor-controlled source materials without separate rights confirmation, or third-party assets.
 <!-- package-hardening-status:end -->

@@ -1,13 +1,16 @@
 # License Status: Street Network Structure And Activity Spaces
 
-Generated: 2026-05-22 07:56:28 AEST
+Generated: 2026-07-02 11:28:18 AEST
 
-Recorded license/access note from the verified audit row: Upstream data governed by MTSA/Census/FDOT/provider terms; packaged supporting artifacts appear non-person/derived and should be released with provenance notes.
+Root license file: `LICENSE`
 
-Before public GitHub upload, add an explicit license for author-created code/data or mark the package as citation/provenance-only. Do not license third-party raw data or publisher PDFs.
+The root license applies CC BY 4.0 only to rights-cleared author-created repository documentation, package metadata, source-decision notes, package-boundary notes, file manifests, generated data dictionaries, and derived package metadata. It also covers modernized sidecar descriptions and exports for the staged supporting accessibility and network-measure materials only to the extent controlled by the paper authors or repository maintainers.
+
+No software license is asserted because no executable software, scripts, notebooks, model source code, street-network classification code, regression scripts, or paper-specific runtime code are staged.
 
 ## Practical Rule
 
-- Author-created code can receive an explicit software license only after finality/provenance is confirmed.
-- Author-created data/derived tables can receive an explicit data/documentation license only after source rights are clear.
-- Third-party raw data and publisher PDFs are not relicensed here.
+- The publication PDF retains its publication, repository, or manuscript terms.
+- Raw Twin Cities Travel Behavior Inventory records, 1999 Southeast Florida Travel Survey records, household/trip/activity-space microdata, coordinate records, respondent-level data, and Metropolitan Travel Survey Archive materials are not staged and are not relicensed here.
+- Census TIGER/Line source files, FSUTMSOnline or Florida Department of Transportation model-data sources, UMN accessibility source data, CLUSTER/Xie street-classification software, and other upstream/public/regional source materials retain their original terms.
+- The original supporting accessibility ZIP, the legacy network-measures workbook, workbook application metadata, and coauthor-controlled source material are not blanket-relicensed unless rights are separately confirmed.

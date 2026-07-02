@@ -1,6 +1,6 @@
 # Package Status: Street Network Structure And Activity Spaces
 
-Generated: 2026-05-22 07:56:28 AEST
+Generated: 2026-07-02 11:28:18 AEST
 
 ## Audit State
 
@@ -12,10 +12,11 @@ Generated: 2026-05-22 07:56:28 AEST
 - Controlled access status: `none`
 - Human subjects status: `no_human_subject_data_packaged`
 - Bibliographic citation: Parthasarathi, Pavithra; Hochmair, Hartwig; Levinson, David M. (2015). Street network structure and household activity spaces. Urban Studies, 52(6), 1090-1112. https://doi.org/10.1177/0042098014537956
+- Root license: CC BY 4.0 for rights-cleared author-created derived data and documentation
 
 ## Package Checks
 
-- Files in manifest: 15
+- Files in manifest: 16
 - Paper reference files: 2
 - Code candidates: 0
 - Data candidates: 6
@@ -25,5 +26,6 @@ Generated: 2026-05-22 07:56:28 AEST
 ## Upload Boundary
 
 - Use `PACKAGE_MANIFEST.csv` as the upload checklist.
-- Include `paper/` PDF reference copies in public paper-package repositories by owner decision; publisher takedown requests can be handled later if they arise.
-- Confirm finality and license before repository creation.
+- Treat files under `paper/` as local reference copies unless rights review explicitly clears them.
+- Apply the root `LICENSE` only to rights-cleared author-created repository documentation, package metadata, source-decision notes, package-boundary notes, file manifests, generated data dictionaries, derived package metadata, and modernized sidecar descriptions/exports to the extent controlled by the paper authors or repository maintainers.
+- Do not relicense publication PDFs, raw survey records, household/trip/activity-space microdata, coordinate records, respondent-level data, MTSA materials, Census TIGER/Line source files, FSUTMSOnline or FDOT source data, UMN accessibility source data, CLUSTER/Xie street-classification software, original supporting accessibility ZIP content, legacy network-measures workbook content, coauthor-controlled source materials without separate rights confirmation, drafts, reviewer correspondence, cited references, vendor file-format structures, or third-party/external materials.
